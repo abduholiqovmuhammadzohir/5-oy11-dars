@@ -1,0 +1,25 @@
+*{
+  padding: 0;margin: 0;box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+
+li{
+  text-decoration: none;
+  border: 1px solid white;
+  width: 100px;
+  color: white;
+  text-align: center;
+  padding-top:20px;
+  padding-bottom: 20px;
+}
+
+#salom{
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: space-between;
+  margin: 100px;
+}
